@@ -1,0 +1,12 @@
+name: WordPredict
+title: WordPredict
+username:
+account: aarya357
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1005322
+bundleId: 2189035
+url: https://aarya357.shinyapps.io/WordPredict/
+when: 1561910331.38387
+asMultiple: FALSE
+asStatic: FALSE
